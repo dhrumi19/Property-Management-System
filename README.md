@@ -11,14 +11,17 @@ Admin Dashboard and Control
 Secure Login & Registration System
 
 Features of the New System
+
 🔐 Common Features
 Registration & Login for both Admin and Users
 Search functionality for property listings
+
 👨‍💼 Admin Module
 Add/Edit/Delete property listings
 View and manage user accounts
 Respond to purchase and maintenance requests
 Monitor feedback
+
 🧑‍💼User Module
 Register and update profile
 Browse and search properties
@@ -26,12 +29,15 @@ Send property purchase/rent/maintenance requests
 Post feedback and view response history
 
 System Design
+
 🗂️ Diagrams Included
+
 System Flowchart
 Entity Relationship Diagram (ERD)
 Context-Level and Level 1 Data Flow Diagrams (DFD)
 Data Dictionary
 UI Screenshots (Admin and User Interfaces)
+
 🧪 Testing
 Manual test cases were implemented to validate each functionality of the system, covering:
 Login validation
